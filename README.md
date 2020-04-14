@@ -5,4 +5,4 @@ I have worked on the python exercises offered by WS3schools and I have posted th
 Anyone who wants help regarding that can view my repo and use it up. 
 Any suggestions for improvement of my solutions are most welcome.
 
-# HAPPY LEARNING 
+# Happy Learning and Coding !!
